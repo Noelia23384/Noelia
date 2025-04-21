@@ -3,26 +3,26 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Casino Online | Gana Grandes Premios</title>
+  <title>Casino Online </title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body class="bg-gray-900 text-white">
   <!-- Hero Section -->
-  <section class="bg-cover bg-center text-center py-20 px-6" style="background-image: url('https://images.unsplash.com/photo-1592321993561-dfef89d7e24e');">
-    <h1 class="text-4xl md:text-6xl font-bold mb-4">🎰 ¡Gira y Gana Hoy!</h1>
-    <p class="text-xl mb-8">Bonos de bienvenida hasta $500 + 100 giros gratis 🎁</p>
+  <section class="bg-cover bg-center text-center py-20 px-6" style="background-image: url('https://i.pinimg.com/736x/2f/69/46/2f694613b7cec3cee601c99cc8d5b272.jpg');">
+    <h1 class="text-4xl md:text-6xl font-bold mb-4">🎰 ¡Carga y Gana Hoy!</h1>
+
     <a href="#registro" class="bg-yellow-400 text-black px-8 py-4 rounded-full text-lg font-bold hover:bg-yellow-300 transition">Empieza a Jugar</a>
   </section>
 
   <!-- Features -->
   <section class="py-16 px-6 grid md:grid-cols-3 gap-10 text-center max-w-6xl mx-auto">
     <div>
-      <h3 class="text-xl font-semibold mb-2">💰 Bonos Increíbles</h3>
+      <h3 class="text-xl font-semibold mb-2">💰 Bonos de Bienvenida </h3>
       <p>Consigue premios desde tu primer depósito.</p>
     </div>
     <div>
       <h3 class="text-xl font-semibold mb-2">🃏 Juegos Populares</h3>
-      <p>Disfruta de ruleta, blackjack, póker y más.</p>
+      <p>Disfruta de los mejores slots y más.</p>
     </div>
     <div>
       <h3 class="text-xl font-semibold mb-2">⚡ Retiros Rápidos</h3>
@@ -35,15 +35,13 @@
     <h2 class="text-4xl font-bold mb-6">🎁 ¡Regístrate y Gana!</h2>
     <form class="max-w-xl mx-auto grid gap-6 text-left">
       <input type="text" placeholder="Nombre completo" class="w-full p-4 rounded-lg" required />
-      <input type="email" placeholder="Correo electrónico" class="w-full p-4 rounded-lg" required />
-      <input type="password" placeholder="Contraseña segura" class="w-full p-4 rounded-lg" required />
-      <button type="submit" class="bg-black text-white px-6 py-4 rounded-lg font-bold hover:bg-gray-800 transition">Crear Cuenta</button>
+     <button type="submit" class="bg-black text-white px-6 py-4 rounded-lg font-bold hover:bg-gray-800 transition">Crear Cuenta</button>
     </form>
   </section>
 
   <!-- Footer -->
   <footer class="bg-gray-800 text-gray-400 text-center py-6 text-sm">
-    © 2025 TuCasinoOnline. Juego responsable +18
+    © 2025 Juego responsable +18
   </footer>
 </body>
 </html>
